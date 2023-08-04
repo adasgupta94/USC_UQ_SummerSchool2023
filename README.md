@@ -17,5 +17,7 @@ This repository contains Jupyter notebooks that demonstrate the implementation o
 
 [3]:	Github repository on noise-conditioned score models: [Link](https://github.com/ermongroup/ncsnv2/tree/master)
 
+[4]: A simplified implementation of noise-conditioned score models suitable for toy problems: [Link](https://github.com/JeongJiHeon/ScoreDiffusionModel/blob/main/NCSN/NCSN_example.ipynb)
+
 
 
