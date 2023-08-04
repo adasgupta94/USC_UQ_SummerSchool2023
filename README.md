@@ -5,8 +5,8 @@ This repository contains Jupyter notebooks that demonstrate the implementation o
 (i) Two-dimensional bimodal Gaussian mixture model (ii) Three-dimensional helix. Shown below are GIFs of the reverse diffusion process.
 
 
-![GIF1](https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy2d.gif)
-![GIF2](https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy3d.gif)
+![GIF1](https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy2d.gif =500x500)
+![GIF2](https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy3d.gif =500x500)
 
 
 ## References:
