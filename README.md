@@ -4,9 +4,8 @@ Tutorial on score-based diffusion models for generative modeling for the Uncerta
 This repository contains Jupyter notebooks that demonstrate the implementation of score-based diffusion models on two problems:\
 (i) Two-dimensional bimodal Gaussian mixture model (ii) Three-dimensional helix. Shown below are GIFs of the reverse diffusion process.
 
-
-![GIF1](https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy2d.gif =500x500)
-![GIF2](https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy3d.gif =500x500)
+<img src="https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy2d.gif" width="40%" height="40%"/>
+<img src="https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy3d.gif" width="40%" height="40%"/>
 
 
 ## References:
