@@ -2,7 +2,7 @@
 Tutorial on score-based diffusion models for generative modeling for the Uncertainty Quantification Summer School 2023 organized at the University of Southern California. Agnimitra Dasgupta and Assad Oberai created this repository for the purpose of demonstrating score-based diffusion generative models in action. 
 
 This repository contains Jupyter notebooks that demonstrate the implementation of score-based diffusion models on two problems:\
-(i) Two-dimensional bimodal Gaussian mixture model (ii) Three-dimensional helix: 
+(i) Two-dimensional bimodal Gaussian mixture model (ii) Three-dimensional helix. Shown below are GIFs of the reverse diffusion process.
 
 
 ![GIF1](https://github.com/adasgupta94/USC_UQ_SummerSchool2023/blob/main/toy2d.gif)
