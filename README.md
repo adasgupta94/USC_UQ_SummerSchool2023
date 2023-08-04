@@ -13,7 +13,7 @@ This repository contains Jupyter notebooks that demonstrate the implementation o
 
 [1]: Song, Yang, and Stefano Ermon. "Generative modeling by estimating gradients of the data distribution." Advances in Neural Information Processing Systems 32 (2019).
 
-[2]: Song, Yang, and Stefano Ermon. "Improved techniques for training score-based generative models." Advances in neural information processing systems 33 (2020): 12438-12448.
+[2]: Song, Yang, and Stefano Ermon. "Improved techniques for training score-based generative models." Advances in Neural Information Processing Systems 33 (2020): 12438-12448.
 
 [3]:	Github repository on noise-conditioned score models: [Link](https://github.com/ermongroup/ncsnv2/tree/master)
 
